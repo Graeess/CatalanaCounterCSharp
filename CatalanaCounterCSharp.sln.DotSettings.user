@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3fc1462b_002D3db6_002D41ff_002D8518_002D6db27fd218d8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ParenthesisCombinationsTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F736138-2D9B-4310-8DED-F97D954FAECD::net8.0::CatalanaCounterCSharp.Tests.ParenthesisCombinationsTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F736138-2D9B-4310-8DED-F97D954FAECD::net8.0::CatalanaCounterCSharp.Tests.TestLoad&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=567cd490_002Da480_002D40bb_002D8a61_002D65165397f8ff/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ParenthesisCombinationsTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6F736138-2D9B-4310-8DED-F97D954FAECD::net8.0::CatalanaCounterCSharp.Tests.ParenthesisCombinationsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
